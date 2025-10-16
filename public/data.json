@@ -1,0 +1,85 @@
+{
+  "eventos": [
+    {
+      "nombre": "Mariñas Sound Betanzos",
+      "fecha": "2025-12-06",
+      "estado": "entradas disponibles",
+      "entradas": "https://forvenues.link/aqui",
+      "localizacion": "Pistas do Carregal, Betanzos",
+      "hora": "Por confirmar",
+      "imagen": "/@antonioaguiin-95.jpg"
+    },
+    {
+      "nombre": "Mariñas Sound Hermo",
+      "fecha": "",
+      "estado": "próximamente",
+      "entradas": "",
+      "localizacion": "Discoteca Hermo, Muimenta",
+      "sublocalizacion": "Hermo, Galicia",
+      "hora": "Por confirmar",
+      "imagen": "/@antonioaguiin-137.jpg"
+    }
+  ],
+  "artistas": [
+    {
+      "nombre": "Alvama Ice",
+      "confirmado": true,
+      "imagen": "/ALVAMA.jpg"
+    },
+    {
+      "nombre": "???????",
+      "confirmado": false,
+      "imagen": "/sombra.jpg",
+      "fechaRevelacion": "19/10"
+    },
+    {
+      "nombre": "???????",
+      "confirmado": false,
+      "imagen": "/sombra.jpg",
+      "fechaRevelacion": "21/10"
+    },
+    {
+      "nombre": "???????",
+      "confirmado": false,
+      "imagen": "/sombra.jpg"
+    },
+    {
+      "nombre": "???????",
+      "confirmado": false,
+      "imagen": "/sombra.jpg"
+    },
+    {
+      "nombre": "???????",
+      "confirmado": false,
+      "imagen": "/sombra.jpg"
+    },
+    {
+      "nombre": "???????",
+      "confirmado": false,
+      "imagen": "/sombra.jpg"
+    },
+    {
+      "nombre": "???????",
+      "confirmado": false,
+      "imagen": "/sombra.jpg"
+    },
+    {
+      "nombre": "???????",
+      "confirmado": false,
+      "imagen": "/sombra.jpg"
+    },
+    {
+      "nombre": "???????",
+      "confirmado": false,
+      "imagen": "/sombra.jpg"
+    }
+  ],
+  "contacto": {
+    "email": "marinassound@gmail.com",
+    "instagram": "https://www.instagram.com/marinas.sound/"
+  },
+  "urlEntradasGeneral": "https://forvenues.link/marinas-sound",
+  "urlAutorizacionMenores": "/autorizacion-menores.pdf",
+  "galeria": ["/images/festival-1.jpg", "/images/festival-2.jpg", "/images/festival-3.jpg", "/images/festival-4.jpg"],
+  "imagenFondoFestival": "/@antonioaguiin-65.jpg"
+}
