@@ -6,23 +6,24 @@ import { Analytics } from "@vercel/analytics/next"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Mariñas Sound 2025 | Festival de Música en Betanzos y Hermo | Alvama Ice y más artistas",
-  description:
-    "Festival Mariñas Sound 2025 en Galicia. Disfruta de Alvama Ice y más artistas en Betanzos (Pistas do Carregal) y Hermo (Discoteca Hermo, Muimenta). Compra tus entradas ahora para el mejor festival de música urbana en Galicia.",
+  title: "Marinas Sound | Festival de música urbana en Galicia",
+  description: "Vive Marinas Sound, el festival de música urbana en Galicia con Alvama Ice y los mejores DJs. Betanzos y La Hermo, verano 2025.",
   generator: "v0.app",
   keywords: [
-    "Mariñas Sound",
-    "Mariñas Sound 2025",
-    "festival Betanzos",
-    "festival Hermo",
+    "música urbana",
     "festival Galicia",
     "Alvama Ice",
-    "Alvama Ice Betanzos",
-    "Alvama Ice Hermo",
+    "Betanzos",
+    "La Hermo",
+    "rap",
+    "trap",
+    "DJs",
+    "Marinas Sound",
+    "Mariñas Sound",
+    "festival Betanzos",
+    "festival Hermo",
     "concierto Betanzos",
     "concierto Hermo",
-    "música urbana Galicia",
-    "festival música Galicia",
     "Pistas do Carregal",
     "Discoteca Hermo",
     "Muimenta",
@@ -33,13 +34,16 @@ export const metadata: Metadata = {
     "conciertos Galicia 2025",
   ],
   authors: [{ name: "Mariñas Sound" }],
+  alternates: {
+    canonical: "https://www.marinassound.es",
+  },
   openGraph: {
-    title: "Mariñas Sound 2025 | Festival de Música en Betanzos y Hermo",
-    description:
-      "Festival Mariñas Sound 2025 con Alvama Ice y más artistas. Betanzos y Hermo, Galicia. Compra tus entradas.",
+    title: "Marinas Sound - Festival de música urbana en Galicia",
+    description: "Vive la experiencia del festival Marinas Sound con Alvama Ice y los mejores DJs de música urbana en Betanzos y La Hermo.",
+    url: "https://www.marinassound.es",
     type: "website",
     locale: "es_ES",
-    siteName: "Mariñas Sound",
+    siteName: "Marinas Sound",
     images: [
       {
         url: "/images/logo.png",
@@ -51,8 +55,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mariñas Sound 2025 | Festival de Música en Betanzos y Hermo",
-    description: "Festival Mariñas Sound 2025 con Alvama Ice y más artistas en Galicia. Compra tus entradas.",
+    title: "Marinas Sound - Festival de música urbana en Galicia",
+    description: "Vive la experiencia del festival Marinas Sound con Alvama Ice y los mejores DJs de música urbana en Betanzos y La Hermo.",
     images: ["/images/logo.png"],
   },
   robots: {
