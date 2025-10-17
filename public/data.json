@@ -4,7 +4,7 @@
       "nombre": "Mariñas Sound Betanzos",
       "fecha": "2025-12-06T20:00:00+01:00",
       "estado": "entradas disponibles",
-      "entradas": "https://forvenues.link/aqui",
+      "entradas": "https://www.fourvenues.com/marinas-sound/MKEP",
       "localizacion": "Pistas do Carregal, Betanzos",
       "hora": "20:00-06:00",
       "imagen": "/@antonioaguiin-95.jpg"
@@ -79,7 +79,7 @@
     "instagram": "https://www.instagram.com/marinas.sound/"
   },
   "urlEntradasGeneral": "https://www.fourvenues.com/marinas-sound/MKEP",
-  "urlAutorizacionMenores": "/autorizacion-menores.pdf",
+  "urlAutorizacionMenores": "https://drive.google.com/drive/folders/1rrFxennGAkioR-6NMMo3uj_9SH5g32m2?usp=drive_link",
   "galeria": ["/images/festival-1.jpg", "/images/festival-2.jpg", "/images/festival-3.jpg", "/images/festival-4.jpg"],
   "imagenFondoFestival": "/@antonioaguiin-65.jpg"
 }
