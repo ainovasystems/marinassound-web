@@ -1,5 +1,9 @@
 import { MetadataRoute } from 'next'
 
+// Force static generation for Netlify
+export const dynamic = 'force-static'
+export const revalidate = false
+
 export default function manifest(): MetadataRoute.Manifest {
   return {
     name: 'Mariñas Sound 2025 - Festival de Música Urbana en Galicia',

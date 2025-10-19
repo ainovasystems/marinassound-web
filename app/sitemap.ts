@@ -1,5 +1,9 @@
 import { MetadataRoute } from 'next'
 
+// Force static generation for Netlify
+export const dynamic = 'force-static'
+export const revalidate = false
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://www.marinassound.es'
   
