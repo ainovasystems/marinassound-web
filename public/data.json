@@ -28,9 +28,9 @@
 
     },
     {
-      "nombre": "???????",
-      "confirmado": false,
-      "imagen": "/sombra.jpg",
+      "nombre": "Kike Varela",
+      "confirmado": true,
+      "imagen": "KIKE.jpg",
       "fechaRevelacion": "19/10"
     },
     {
