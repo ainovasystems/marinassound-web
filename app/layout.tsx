@@ -81,9 +81,6 @@ export const metadata: Metadata = {
     creator: "@marinas.sound",
     site: "@marinas.sound",
   },
-  verification: {
-    google: "your-google-verification-code",
-  },
   category: "music",
   robots: {
     index: true,
