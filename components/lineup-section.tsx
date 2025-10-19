@@ -44,11 +44,12 @@ export function LineupSection() {
               <div className="aspect-[3/4] relative overflow-hidden bg-gradient-to-br from-secondary/30 to-primary/20">
                 <Image
                   src={artist.imagen || "/placeholder.svg"}
-                  alt={artist.confirmado ? artist.nombre : "Artista por revelar"}
+                  alt={artist.confirmado ? `${artist.nombre} - Artista confirmado en Mariñas Sound 2025 Festival de música urbana en Galicia` : "Artista por revelar - Mariñas Sound 2025"}
                   fill
                   className={`object-cover transition-all duration-300 group-hover:scale-110 ${
                     !artist.confirmado ? "opacity-60" : ""
                   }`}
+                  title={artist.confirmado ? `${artist.nombre} en Mariñas Sound 2025` : "Artista por revelar"}
                 />
 
                 {!artist.confirmado && artist.fechaRevelacion && (

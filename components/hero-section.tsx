@@ -70,10 +70,11 @@ export function HeroSection() {
         {heroData?.backgroundImage && (
           <Image
             src={heroData.backgroundImage || "/placeholder.svg"}
-            alt="Mariñas Sound Festival"
+            alt="Mariñas Sound Festival 2025 - Festival de música urbana en Betanzos y Hermo, Galicia"
             fill
             className="object-cover opacity-50"
             priority
+            title="Festival Mariñas Sound 2025"
           />
         )}
         <div className="absolute inset-0 bg-gradient-to-b from-background/70 via-background/80 to-background" />
@@ -84,11 +85,12 @@ export function HeroSection() {
         <div className="mb-12 animate-float">
           <Image
             src="/images/design-mode/LOGO%20MARIN%CC%83AS%20SOUND%20SIN%20FONDO.png"
-            alt="Mariñas Sound Logo"
+            alt="Mariñas Sound 2025 - Festival de música urbana en Galicia con Alvama Ice"
             width={700}
             height={350}
             className="mx-auto w-full max-w-3xl h-auto drop-shadow-[0_0_40px_rgba(0,102,204,0.6)]"
             priority
+            title="Mariñas Sound Festival 2025"
           />
         </div>
 

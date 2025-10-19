@@ -53,9 +53,10 @@ export function EventsSection() {
                 {event.imagen ? (
                   <Image
                     src={event.imagen || "/placeholder.svg"}
-                    alt={event.nombre}
+                    alt={`${event.nombre} - Festival Mariñas Sound 2025 en ${event.localizacion}`}
                     fill
                     className="object-cover group-hover:scale-105 transition-transform duration-500"
+                    title={`${event.nombre} - Mariñas Sound 2025`}
                   />
                 ) : (
                   <div className="absolute inset-0 bg-gradient-to-br from-secondary to-primary/30" />
