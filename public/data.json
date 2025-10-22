@@ -33,10 +33,9 @@
       "imagen": "/KIKE.jpg"
     },
     {
-      "nombre": "???????",
-      "confirmado": false,
-      "imagen": "/sombra.jpg",
-      "fechaRevelacion": "22/10"
+      "nombre": "Sote",
+      "confirmado": true,
+      "imagen": "/SOTE.jpg"
     },
     {
       "nombre": "???????",
